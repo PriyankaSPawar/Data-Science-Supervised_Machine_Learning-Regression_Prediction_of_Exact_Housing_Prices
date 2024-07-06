@@ -42,9 +42,9 @@ In classification, we predicted discrete classes. Hence, a prediction was either
 - Select the model giving highest accuracy for final submission.
 
 ## Deliverables : 
-- The Google Colab Notebook files which contains different ML algorithms attached with this repository.
-- Final Notebook with highest accuracy model found[here]()
-- Final submission file for Competition.[here]()
+- The Google Colab Notebook file which contains different ML algorithms attached with this repository found [here](https://github.com/PriyankaSPawar/Data-Science-Supervised_Machine_Learning-Regression_Prediction_of_Exact_Housing_Prices/blob/main/I_Housing_Prices_Model_Using_Regression_Techniques.ipynb)
+- Final Notebook with highest accuracy model found[here](https://github.com/PriyankaSPawar/Data-Science-Supervised_Machine_Learning-Regression_Prediction_of_Exact_Housing_Prices/blob/main/Final_Housing_Prices_Regressor_Model_for_Competition.ipynb)
+- Final submission file for Competition.[here](https://github.com/PriyankaSPawar/Data-Science-Supervised_Machine_Learning-Regression_Prediction_of_Exact_Housing_Prices/blob/main/Competition_submission_file_priyanka_gradient.csv)
 - Medium Article of this Project found [here]()
 
 ## Recommendation for Further Analysis :
