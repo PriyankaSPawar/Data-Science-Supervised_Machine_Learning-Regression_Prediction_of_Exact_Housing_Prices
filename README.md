@@ -1,7 +1,7 @@
 # Supervised Machine Learning Using Regression Models
 
-## DataScience Bootcamp Project 6 (Phase II) : WBS Coding School
-Welcome to my sixth project in bootcamp & third project of Machine Learning using Regression models! This time I am predicting the exact housing prices for a real estate consultancy by using several models of Regression techniques in supervised machine learning.In the second phase of the project, the target variable will be numerical (the exact prices of the houses in dollars)
+## DataScience Bootcamp Project 7 (Phase II) : WBS Coding School
+Welcome to my seventh project in bootcamp & third project of Machine Learning using Regression models! This time I am predicting the exact housing prices for a real estate consultancy by using several models of Regression techniques in supervised machine learning.In the second phase of the project, the target variable will be numerical (the exact prices of the houses in dollars)
 
 ## Objective :
 To create a model to predict the exact price of a house.
